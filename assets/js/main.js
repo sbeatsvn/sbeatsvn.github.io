@@ -1,6 +1,6 @@
 /**
-* Template Name: Moderna
-* Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
+* Template Name: S-Beats
+* Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-S-Beats/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
